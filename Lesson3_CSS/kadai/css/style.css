@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(223, 223, 202);
+}
+
+.name_container {
+    display: flex;
+}
+
+.name p {
+    margin: 26px 0 0 30px;
+}
+
+.profile_img_container {
+    display: flex;
+}
+
+.img {
+    margin: 0 0 50px 30px;
+}
+
+.items_flex {
+    max-width: 500px;
+}
+
+table thead tr th{
+    width: 300px;
+}
+
+table td{
+    text-align: center;
+}
+
+.items_flex ul {
+    display: flex;
+    justify-content: space-around;
+}
